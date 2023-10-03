@@ -41,7 +41,8 @@ git clone https://github.com/chemical-pathology-department/chemical-pathology-sc
 
 3. **Contributing:** If you're inspired to contribute or enhance scripts, you can follow the same steps as our staff members. Your contributions are always welcome.
 
-## Organizing Scripts
+## organizing-scripts
+
 To keep our repository organized, please adhere to the following guidelines:
 
 1. Use clear and descriptive folder names for different types of scripts (e.g., "lab-scripts," "teaching-scripts," "research-scripts").
