@@ -33,18 +33,18 @@ You can contribute your scripts to this repository. To do so, follow these steps
 
 If you're looking to use scripts or contribute, you can follow these steps:
 
-1. Clone the repository: Use git clone to copy our repository to your computer. This way, you can access all the scripts and resources.
+1. **Clone the repository:** Use git clone to copy our repository to your computer. This way, you can access all the scripts and resources.
 
 git clone https://github.com/chemical-pathology-department/chemical-pathology-scripts.git
 
-2. Exploration: Dive into the repository to find scripts relevant to your studies. Learning is all about exploring, so feel free to ask questions!
+2. **Exploration:** Dive into the repository to find scripts relevant to your studies. Learning is all about exploring, so feel free to ask questions!
 
-3. Contributing: If you're inspired to contribute or enhance scripts, you can follow the same steps as our staff members. Your contributions are always welcome.
+3. **Contributing:** If you're inspired to contribute or enhance scripts, you can follow the same steps as our staff members. Your contributions are always welcome.
 
-Organizing Scripts
+## Organizing Scripts
 To keep our repository organized, please adhere to the following guidelines:
 
-Use clear and descriptive folder names for different types of scripts (e.g., "lab-scripts," "teaching-scripts," "research-scripts").
-Include a README file within each folder to explain the purpose and usage of the scripts it contains.
-Use meaningful file names for your scripts.
-Comment your code generously to make it understandable for others.
+1. Use clear and descriptive folder names for different types of scripts (e.g., "lab-scripts," "teaching-scripts," "research-scripts").
+2. Include a README file within each folder to explain the purpose and usage of the scripts it contains.
+3. Use meaningful file names for your scripts.
+4. Comment your code generously to make it understandable for others.
