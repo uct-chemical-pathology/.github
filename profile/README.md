@@ -11,6 +11,7 @@ Welcome to the Chemical Pathology Department's GitHub repository! This space is 
 ## Getting Started
 
 Before you begin contributing or using scripts from this repository, make sure you have a GitHub account. If you don't have one, you can [sign up here](https://github.com/join).
+If you are new to Python, a great starting point is this free course: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/
 
 ## Uploading Scripts
 
